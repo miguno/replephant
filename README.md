@@ -179,7 +179,7 @@ Start the [Clojure REPL](http://clojure.org/repl_and_main) first:
 *settings, which you may or may not have in a production environment.  After the first startup you do not need Internet*
 *connectivity anymore as long as you do not want to update the Replephant software;  e.g. you can then copy the*
 *Replephant directory plus your `$HOME/.m2/` directory to the cluster's NameNode and run it there even if the*
-*NameNode cannot access the Internet.*
+*NameNode cannot access the Internet.  In the future we may improve the packaging of Replephant.*
 
 Once the REPL is running you can play around with the library and create your first usage reports.  Enter the following
 commands into the REPL:
