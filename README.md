@@ -142,6 +142,7 @@ including all of Clojure's own powerful features to interactively drill down int
 * Java JDK/JRE >= 6
 * [Leiningen version 2](http://leiningen.org/) -- either install manually or use your favorite package manager such as
   [HomeBrew](http://mxcl.github.io/homebrew/) for Macs
+* Tested with Hadoop 1.0+ and Hadoop 0.20.203+ -- feel free to report back which other versions work with Replephant
 
 That's it!
 
