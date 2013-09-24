@@ -153,11 +153,11 @@ That's it!
 
 Apart from meeting Replephant's [Requirements](#Requirements) you only need to clone this git repository.
 
-    # Option 1: using SSH for data transfer
-    $ git clone git@github.com:miguno/replephant.git
-
-    # Option 2: using HTTPS for data transfer
+    # Option 1: using HTTPS for data transfer
     $ git clone https://github.com/miguno/replephant.git
+
+    # Option 2: using SSH for data transfer (requires GitHub user account)
+    $ git clone git@github.com:miguno/replephant.git
 
 *Note: This step requires a working Internet connection and appropriate firewall settings, which you may or may not*
 *have in a production environment.*
