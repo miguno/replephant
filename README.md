@@ -37,7 +37,7 @@ First, clone the Replephant repository and start the Clojure REPL.  You must hav
 if you do not the sections below will explain you how to do that.
 
 ```bash
-$ git clone git@github.com:miguno/replephant.git
+$ git clone https://github.com/miguno/replephant.git
 $ cd replephant
 $ lein repl
 
