@@ -1,4 +1,4 @@
-# Replephant
+# Replephant [![Build Status](https://travis-ci.org/miguno/replephant.png?branch=master)](https://travis-ci.org/miguno/replephant)
 
 A Clojure library to perform interactive analysis of Hadoop cluster usage via REPL and to generate usage reports.
 
